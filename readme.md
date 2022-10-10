@@ -5,6 +5,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; **2-** [_Estruturando HTML (formatações)_](https://github.com/Brayan-sant/Estruturando-HTML/blob/master/index.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp; **3-** _Trabalhando com Mídias_
+&nbsp;&nbsp;&nbsp;&nbsp; **3-** [_Trabalhando com Mídias_](https://github.com/Brayan-sant/Estruturando-HTML/blob/master/Aulas/Trabalhando%20com%20midias.docx)
 
 &nbsp;&nbsp;&nbsp;&nbsp; **4-** _Criando Tabelas_
