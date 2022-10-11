@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title> Formatando Texto </title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="css/style.css" rel="stylesheet">
+
+        <style>
+        .row {
+            margin:5px;
+        }
+        label {
+            width: 100px;
+            text-align: right;
+            display: inline-block;
+            padding-right: 5px;
+        }
+        fieldset {
+            margin: 15px 0;
+            border-radius: 10px;
+            border-color: rgb(228, 245, 245);
+        }
+        </style>
+
+    </head>
+    <body>
+        <h1> Formulário de cadastro </h1>
+        <fieldset>
+            <legend>Dados Pessoais</legend>
+        <div class="row">
+            <form onsubmit method="get">
+                <label>Nome:</label> <input type="text"/> <br>
+                <label>E-mail:</label> <input type="email"/> <br>
+                <label>Profissão:</label> <select name="role">
+                                <option value="Selecione a Profissão"></option>
+                                <option value="administrativo"> Auxiliar Administrativo</option>
+                                <option value="Diretor Administrativo"> Diretor Administrativo</option>
+                                <option value="Analista Administrativo">Analista Administrativo</option>
+                           </select> <br>
+                <label>Empresa:</label> <input type="text"/>
+         </fieldset>
+                
+                <br>
+        
+        <fieldset>
+            <legend>Endereço</legend>
+                <label>Endereço:</label> <input type="text"/> <br>
+                <label>Número:</label> <input style="width: 30px" ;type="number" width="10"/> <br>
+                <label>Bairro:</label> <input type="text"/> <br>
+                <label>Cidade/UF:</label> <input type="text"/> <br>
+                <label>Celular:</label> <input type="text"/> <br> 
+        </fieldset>
+        </div>
+                <br>
+
+        <fieldset>
+            <legend>Informações de Contato</legend>  
+                <label>Linkedin:</label> <input type="url"/> <br>
+                <label>WhatsApp:</label> <input type="number"/> <br>
+                <label>GitHub:</label> <input type="url"/>
+        </fieldset>
+
+                <br>
+                <br>
+
+                <button type="reset"> Limpar </button>
+                <button type="submit"> Enviar formulário </button> 
+            </form>
+    </body>
+</html>
