@@ -3,7 +3,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; **1-** [_Trabalhando com Formulários_](https://github.com/Brayan-sant/Formul-rio-HTML/blob/master/index.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp; **2-** [_Estruturando HTML (formatações)_](https://github.com/Brayan-sant/Estruturando-HTML/blob/master/Formulario-estrutura%20HTML/index.html)
+&nbsp;&nbsp;&nbsp;&nbsp; **2-** [_Estruturando HTML (formatações)_](https://github.com/Brayan-sant/Estruturando-HTML/blob/master/Aulas/Estruturando%20seu%20HTML%20%2B%20Formata%C3%A7%C3%B5es.docx)
 
 &nbsp;&nbsp;&nbsp;&nbsp; **3-** [_Trabalhando com Mídias_](https://github.com/Brayan-sant/Estruturando-HTML/blob/master/Aulas/Trabalhando%20com%20midias.docx)
 
