@@ -19,13 +19,32 @@ body {
     width: 85%;
 }
 .menu {
-    width: 15%;
     background-color: rgba(100, 153, 196, 0.199);
-    padding: 10px 20px 0px;
-    border-end-start-radius: 25px;
-    display: flex;
+    border-end-start-radius: 25px;    
+}
 
-    
+.logomarca {
+    display: flex;
+    flex-direction: row;
+    margin-top: 35px;
+    margin-bottom: 15px;
+}
+
+.logo {
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 65px;
+    height: 65px;
+}
+
+.cuidar {
+    margin-left: 5px;
+    margin-right: 20px;
+    margin-top: 15px;
+    font-size: 46px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    text-decoration: underline 1px;
+    color: rgba(79, 85, 168, 0.555);
 }
 
 a:link {
@@ -38,9 +57,9 @@ a:hover {
 
 .link-list {
     list-style: none;
-    margin: 35px 0px;
     line-height: 30px;
     font-size: large;
+    font-style: oblique;
 }
 
 .header {
@@ -60,7 +79,41 @@ a:hover {
     background-color: white;
     min-height: 300px;
     padding: 20px;
+    margin-top: 30px;
+    margin-bottom: 2px;
+    display: flex;
+    font-size: 18px;
+    font-family: Noto Sans, sans-serif;
 }
+
+.about {
+    background-color: white;
+    min-height: 300px;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 2px;
+    font-family: Noto Sans, sans-serif;
+}
+
+.sobre-nos {
+    font-size: 35px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    text-decoration: underline 1px;
+    color: rgba(66, 69, 122, 0.555);
+}
+
+.clinica-geral {
+    width: 510px;
+    height: 300px;
+    border-radius: 25%;
+    border-style: groove;
+    border-color: rgb(0, 174, 255);
+    margin-top: 25px;
+    margin-right: 15px;
+}
+
+
+
 .footer {
     background-color: rgba(7, 63, 109, 0.637);
     height: auto;
@@ -89,3 +142,4 @@ a:hover {
     height: 30px;
     margin-top: 5px;
 }
+
