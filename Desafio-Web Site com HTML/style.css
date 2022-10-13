@@ -102,6 +102,24 @@ a:hover {
     color: rgba(66, 69, 122, 0.555);
 }
 
+.contato {
+    background-color: white;
+    min-height: 300px;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 2px;
+    font-family: Noto Sans, sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+
+.contato-h2 {
+    font-size: 35px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    text-decoration: underline 1px;
+    color: rgba(66, 69, 122, 0.555);
+}
+
 .clinica-geral {
     width: 510px;
     height: 300px;
@@ -112,7 +130,19 @@ a:hover {
     margin-right: 15px;
 }
 
+p {
+    text-indent: 10px;
+}
 
+li {
+    margin-bottom: 3px;
+    
+}
+
+.form {
+    margin-bottom: 5px;
+    width: 300px;
+}
 
 .footer {
     background-color: rgba(7, 63, 109, 0.637);
