@@ -31,17 +31,17 @@ body {
 }
 
 .logo {
-    margin-left: 10px;
+    margin-left: 20px;
     margin-top: 10px;
-    width: 65px;
-    height: 65px;
+    width: 75px;
+    height: 75px;
 }
 
 .cuidar {
-    margin-left: 5px;
-    margin-right: 20px;
+    margin-left: 0.1px;
+    margin-right: 25px;
     margin-top: 15px;
-    font-size: 46px;
+    font-size: 48px;
     font-family: Brush Script MT, Brush Script Std, cursive;
     text-decoration: underline 1px;
     color: rgba(79, 85, 168, 0.555);
@@ -122,7 +122,7 @@ a:hover {
 
 .clinica-geral {
     width: 510px;
-    height: 300px;
+    height: 280px;
     border-radius: 25%;
     border-style: groove;
     border-color: rgb(0, 174, 255);
