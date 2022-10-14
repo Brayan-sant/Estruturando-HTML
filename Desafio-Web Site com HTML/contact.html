@@ -28,7 +28,7 @@
 
         <div class="main">
             <div class="header">
-                <img src="/imgs/contato2.jpg" title="Médica negra, está feliz em atender o paciente pelo telefone" class="imagemhome">
+                <img src="/imgs/contato2.jpg" title="Imagem de médica negra feliz em atender o paciente pelo telefone" class="imagemhome">
             </div>
     
             <div class="contato">
@@ -36,10 +36,12 @@
                     <p>
                         Nós da Clínica Care queremos conhecer mais sobre sua saúde e, assim, apresentar as <strong> melhores opções de forma personalizada e que caibam em seu bolso</strong>. Por isso, entre em contato conosco por <u>Atendimento</u> ou pelo <u>Formulário</u>!
                     </p>
+
+                    <div class="formulario">
                         <div class="tabelacontato">
                             <h4>Atendimento</h4>
                                 <ul style="list-style: none;">
-                                    <li><strong>Endereço:</strong> Rua João xx--xx</li>
+                                    <li><strong>Endereço:</strong> Rua Joaquim Barbosa 000</li>
                                     <li><strong>Telefone:</strong> (00) 0000-0000</li>
                                     <li><strong>WhatsApp:</strong> (00) 00000-0000</li>
                                     <li><strong>E-mail:</strong> clinicacare@ggg.com.br</li>
@@ -47,16 +49,21 @@
                         </div>
                         <div class="tabelaformulario">
                             <h4>Preencha o fomulário!</h4>
-                                <form name="submit" onsubmit="alert ('Enviei o formulário');" method="post" action="#">
+                                <form name="submeter" onsubmit="alert ('Enviei o formulário');" method="post" action="#" >
                                     <input class="form" type="text" placeholder="Nome"><br>
                                     <input class="form" type="email" placeholder="E-mail"><br>
                                     <input class="form" type="text" placeholder="Assunto"><br>
                                     <textarea placeholder="Mensagem" rows="6" cols="45"></textarea>
-                                </form>
-                                <br>
-                                <button>Enviar</button>
-                                <button>Limpar</button>
+                                
+                                     <br>
+                                     <button type="submit" formtarget="_blank">Enviar</button>
+                                     <button type="reset">Limpar</button>
+                            </form>
                         </div>
+                        <div class="mapa">
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d8799.098936703775!2d-47.863067262746796!3d-21.989637779699837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1spt-BR!2sbr!4v1665712589042!5m2!1spt-BR!2sbr" width="450" height="350" style="border-color:black;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        </div>
+                    </div>
                 <!-- Aqui vai o seu conteúdo -->
             </div>
     
