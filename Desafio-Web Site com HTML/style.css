@@ -64,14 +64,14 @@ a:hover {
 
 .header {
     
-    min-height: 150px;
+    height: 240px;
     display: flex;
     border-radius: 100px;
 }
 
 .imagemhome {
     width: 65rem;
-    height: 250px;
+    height: 270px;
     border-radius: 10px;
 }
 
@@ -131,6 +131,17 @@ a:hover {
     margin-top: 10px;
 }
 
+.work {
+    width: 1200px;
+    height: 270px;
+    border-radius: 2%;
+}
+
+.atendimento {
+    width: 1200px;
+    height: 310px;
+}
+
 .formulario {
     display: flex;
     flex-direction: column;
@@ -182,6 +193,14 @@ table tbody tr:hover td{
 table tfoot tr:hover td{
     background-color: #cfc8eebe;
     cursor: pointer;
+}
+
+td {
+    text-align: center;
+}
+
+.servicos {
+    text-align: start;
 }
 
 .footer {
