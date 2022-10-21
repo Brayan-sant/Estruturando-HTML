@@ -10,3 +10,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp; **4-** [_Criando Tabelas_](https://github.com/Brayan-sant/Estruturando-HTML/blob/master/Aulas/Criando%20tabela/index.html)
 
 &nbsp;&nbsp;&nbsp;&nbsp; **5-** [_Desafio - Web Site com HTML_](https://github.com/Brayan-sant/Estruturando-HTML/tree/master/Desafio-Web%20Site%20com%20HTML)
+
+#
+**Trabalhando com Formulários**
+
+&nbsp;&nbsp;&nbsp;&nbsp; Objetivo de aprender a criar formulário através do HTML ao qual faz interação entre clients e serves.
+
+&nbsp; Tag < form >, Tag < input >, Tag < select > e Tag < textarea > como seus atributos.
