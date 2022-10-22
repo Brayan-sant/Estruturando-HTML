@@ -12,8 +12,17 @@
 &nbsp;&nbsp;&nbsp;&nbsp; **5-** [_Desafio - Web Site com HTML_](https://github.com/Brayan-sant/Estruturando-HTML/tree/master/Desafio-Web%20Site%20com%20HTML)
 
 #
-**Trabalhando com Formulários**
+**1- Trabalhando com Formulários**
 
 &nbsp;&nbsp;&nbsp;&nbsp; Objetivo de aprender a criar formulário através do HTML ao qual faz interação entre clients e serves.
 
 &nbsp; Tag < form >, Tag < input >, Tag < select > e Tag < textarea > como seus atributos.
+
+#
+**2- Estruturando HTML (formatações)**
+
+&nbsp;&nbsp;&nbsp;&nbsp; Objetivo de aprender como diferentes tags utilizadas no HTML produzem mais ênfase no trecho do código.
+
+&nbsp; Tag < div >, Tag < fieldset >, Tag <legend>, Tag < iframe >, Tag < span > e Tag < label > como seus atributos.
+
+&nbsp; Resenha de core e seus valores.
