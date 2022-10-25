@@ -23,6 +23,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; Objetivo de aprender como diferentes tags utilizadas no HTML produzem mais ênfase no trecho do código.
 
-&nbsp; Tag < div >, Tag < fieldset >, Tag <legend>, Tag < iframe >, Tag < span > e Tag < label > como seus atributos.
+&nbsp; Tag < div >, Tag < fieldset >, Tag < legend >, Tag < iframe >, Tag < span > e Tag < label > como seus atributos.
 
 &nbsp; Resenha de core e seus valores.
+
+ #
+**3- Trabalhando com Mídias**
+
+&nbsp;&nbsp;&nbsp;&nbsp; Objetivo de aprender tags referentes a utilizasação de som e imagem no HMTL.
+
+&nbsp; Tag < img >, Tag < video >, Tag < audio >, como seus atributos, principalmente voltados para acessibilidade.
+
+  
