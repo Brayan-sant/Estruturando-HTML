@@ -34,4 +34,12 @@
 
 &nbsp; Tag < img >, Tag < video >, Tag < audio >, como seus atributos, principalmente voltados para acessibilidade.
 
+ #
+**4- Criando Tabelas**
+
+&nbsp;&nbsp;&nbsp;&nbsp; Objetivo de aprender tags referentes a criação de tabelas no HMTL.
+
+&nbsp; Tag < table >, Tag < thead >, Tag < tbody >, Tag < tfoot >, Tag < caption > e Tag < summary > como seus atributos, principalmente voltados para acessibilidade.
+
+
   
