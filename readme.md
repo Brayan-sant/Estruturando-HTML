@@ -41,5 +41,9 @@
 
 &nbsp; Tag < table >, Tag < thead >, Tag < tbody >, Tag < tfoot >, Tag < caption > e Tag < summary > como seus atributos, principalmente voltados para acessibilidade.
 
+#
+**5- Desafio - Web Site com HTML**
+
+&nbsp;&nbsp;&nbsp;&nbsp; Objetivo de estruturar e colocar em prática os conteúdos aprendidos para a criação de Web Site completo com HTML.
 
   
